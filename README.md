@@ -10,15 +10,15 @@ Python
 
 Lua and Roblox Lua
 
+PHP
+
 Scratch :D
 ```
 ```
 I also know some of these lanugages:
 
-C++
-C#
+C++, C# and C
 Ruby
-PHP
 CGI
 ```
 # Don't pirate Starlounge :)
